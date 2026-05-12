@@ -22,3 +22,6 @@ A PHP and MySQL web application for managing student records and generating stud
 3. Import sims.sql into phpMyAdmin
 4. Visit:
 http://127.0.0.1/sims
+
+Username: admin
+Password: admin123
