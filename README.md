@@ -24,4 +24,5 @@ A PHP and MySQL web application for managing student records and generating stud
 http://127.0.0.1/sims
 
 Username: admin
+
 Password: admin123
